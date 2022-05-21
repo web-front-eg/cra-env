@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 // https://create-react-app.dev/docs/adding-custom-environment-variables/
+// eslint-disable-next-line no-undef
 console.log(process.env.REACT_APP_ENV);
 
 const App = () => (
